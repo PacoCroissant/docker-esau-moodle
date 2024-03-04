@@ -1,11 +1,9 @@
 # Moodle docker-compose lamp
-admin/Admin0101*
+<DOCTYPE html>
+<html>
+ <head></head>
+    <body>
+        <img src="foto.png" alt="midocker">
+        </body>
 
-sudo chmod -R uga+wr logs/apache2/
-
-sudo docker-compose up -d
-
-sudo docker-compose ps
-sudo docker-compose down
-
-ESAU
+</html>
