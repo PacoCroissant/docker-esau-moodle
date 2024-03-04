@@ -17,11 +17,14 @@ Este curso está dirigido a personas que quieran iniciarse en el mundo de la inf
         <p>
         Para instalar nuestro docker compose con la academia hay que seguir los siguientes pasos
         <p>
-        1. En el directorio donde quieras instalar nuestro docker compose, git clone https://github.com/PacoCroissant/docker-esau-moodle
+        1. En el directorio donde quieras instalar nuestro docker compose, 
+                git clone https://github.com/PacoCroissant/docker-esau-moodle
         <p>
-        2. Ahora subiras el docker compose, sudo docker-compose up
+        2. Ahora subiras el docker compose, 
+                sudo docker-compose up
         <p>
-        3. Ahora desde el navegador, accederas al localhost
+        3. Ahora desde el navegador, accederas al localhost, en el navegador deberas escribir
+                localhost/moodle
         <p>
         3. ¡Ahora queda aprender!
         <p>
