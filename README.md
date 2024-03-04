@@ -34,6 +34,3 @@ Este curso está dirigido a personas que quieran iniciarse en el mundo de la inf
 </body>
 
 </html>
-
-
-        localhost/moodle
