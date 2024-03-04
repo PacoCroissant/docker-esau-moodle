@@ -3,7 +3,7 @@
 <html>
  <head></head>
     <body>
-        <img src="foto.png" alt="midocker" height="200" width="9250">
+        <img src="foto.png" alt="midocker" height="200" width="350">
         En este curso vas a aprender las bases del montaje de ordenadores y como hacer su correcto mantenimiento
         <p>
         Para instalar nuestro docker compose con la academia hay que seguir los siguientes pasos
